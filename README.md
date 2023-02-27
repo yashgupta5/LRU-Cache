@@ -1,4 +1,4 @@
-# LRU-Cache
+# LRU_Cache
 ● Designed and implemented a Least Recently Used (LRU) Cache in C++. Utilized doubly linked lists and hash 
 maps to achieve fast and efficient cache operations. Implemented methods for adding, retrieving, and removing 
 elements from the cache.
